@@ -1,2 +1,2 @@
 tesseract_path=C:\Program Files\Tesseract-OCR\tesseract.exe
-poppler_path=C:\Users\jgolling\Desktop\nocr-str\poppler\Library\bin
+poppler_path=C:\Program Files\poppler\Library\bin
